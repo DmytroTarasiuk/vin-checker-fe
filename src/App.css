@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+}
+
+input {
+  padding: 0.5rem;
+  margin-right: 1rem;
+  width: 300px;
+}
+
+button {
+  padding: 0.5rem 1rem;
+}
+
+.vehicle-info {
+  margin-top: 2rem;
+  text-align: left;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
